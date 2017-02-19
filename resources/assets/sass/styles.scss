@@ -1,0 +1,176 @@
+body {
+    color: $cl-dark-grey;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 30px;
+}
+a:link, a:visited, a:active {
+    color: $cl-blue;
+}
+a:hover {
+    color: $cl-blue;
+    text-decoration: underline;
+}
+
+/* ============================================= */
+/* ============================================= */
+
+#header {
+    position: relative;
+    background-color: $cl-blue;
+    font-family: $font-rusted;;
+    color: $cl-light-grey;
+    text-align: center;
+    border-bottom: 4px solid $cl-light-grey;
+}
+#header-sub {
+    padding: 0px;
+}
+#header h1 a {
+    color: $cl-light-grey;
+}
+#header h1 a:hover {
+    text-decoration: none;
+}
+
+/* ============================================= */
+/* ============================================= */
+
+#app {
+    padding-top: 20px;
+}
+.padded {
+    padding: 0px 15px;
+}
+.hr-line {
+    border-top: 1px dashed $cl-dark-grey;
+    margin: 10px 0px;
+}
+.hr-line-footer {
+    border-top: 1px dashed $cl-light-grey;
+    margin: 10px 0px;
+}
+.error-color {
+    color: $cl-red;
+}
+.success-color {
+    color: $cl-blue;
+}
+.error-box {
+    background-color: $cl-light-grey;
+    color: $cl-red;
+}
+.success-box {
+    background-color: $cl-light-grey;
+    color: $cl-blue;
+}
+
+/* ============================================= */
+/* ============================================= */
+
+.project-thumb {
+    font-size: 18px;
+    border: 1px solid #45ADA8;
+    border-radius: 5px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+.project-thumb p {
+    text-align: center;
+    min-height: 80px;
+}
+.btn-fb {
+    margin-bottom: 20px;
+    color: $cl-light-grey !important;
+    background-color: $cl-blue;
+    border: 2px solid $cl-light-grey;
+}
+.btn-fb:hover {
+    color: $cl-blue !important;
+    background-color: $cl-light-grey;
+    border: 2px solid $cl-blue;
+}
+
+/* ============================================= */
+/* ============================================= */
+
+.page-articles select {
+    font-size: 18px;
+}
+
+/* ============================================= */
+/* ============================================= */
+
+.img-me {
+    border: 1px solid $cl-red;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+/* ============================================= */
+/* ============================================= */
+
+#footer {
+    padding: 50px 0px 30px 0px;
+    color: $cl-light-grey;
+    background-color: $cl-dark-grey;
+}
+#footer a:link, #footer a:visited, #footer a:active {
+    color: $cl-blue
+}
+#footer .fa-heart-o {
+    color: $cl-red;
+}
+.btn-def {
+    width: 100%;
+    color: $cl-light-grey;
+    background-color: $cl-red;
+    border: 2px solid $cl-light-grey;
+}
+.btn-def:hover {
+    color: $cl-red;
+    background-color: $cl-light-grey;
+    border: 2px solid $cl-red;
+}
+
+/* ============================================= */
+/* ============================================= */
+/* ============================================= */
+/* ============================================= */
+
+@media(max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    .form-control, .btn {
+        font-size: 16px;
+    }
+
+    /* ============================================= */
+    /* ============================================= */
+
+    .page-articles select {
+        font-size: 16px;
+    }
+
+    /* ============================================= */
+    /* ============================================= */
+
+}

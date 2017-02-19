@@ -1,0 +1,18 @@
+
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Lobster|Ubuntu&subset=cyrillic');
+
+// Import custom fonts
+@import "fonts";
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Import custom styles
+@import "styles";
+
+// Import font awesome styles
+@import "font-awesome/font-awesome";

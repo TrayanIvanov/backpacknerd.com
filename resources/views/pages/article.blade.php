@@ -33,7 +33,7 @@
     @if ($article->youtube)
         <div class="well">
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_dK2tDK9grQ"></iframe>
+                <iframe class="embed-responsive-item" src="{{ $article->youtube }}"></iframe>
             </div>
         </div>
         <div class="hr-line">&nbsp;</div>
@@ -47,7 +47,7 @@
 
     <div class="hr-line">&nbsp;</div>
 
-    <h3>Подобни статии</h3>
+    <h3>Други статии</h3>
 
     <div class="row">
         @foreach ($otherArticles as $otherArticle)

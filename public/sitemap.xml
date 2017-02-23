@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.backpacknerd.com/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.backpacknerd.com/articles</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.backpacknerd.com/article/6</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.backpacknerd.com/article/5</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.backpacknerd.com/article/4</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.backpacknerd.com/article/3</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.backpacknerd.com/article/2</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.backpacknerd.com/article/1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.backpacknerd.com/contacts</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.backpacknerd.com/article/7</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>

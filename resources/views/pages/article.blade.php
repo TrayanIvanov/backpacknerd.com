@@ -16,6 +16,17 @@
 
     <div class="hr-line">&nbsp;</div>
 
+    @if ($article->youtube)
+        <div class="well">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="{{ $article->youtube }}"></iframe>
+            </div>
+        </div>
+        <div class="hr-line">&nbsp;</div>
+    @endif
+
+    <div class="hr-line">&nbsp;</div>
+
     <div class="row">
         @foreach ($article->photos as $photo)
             <div class="col-sm-4">
@@ -27,17 +38,6 @@
             </div>
         @endforeach
     </div>
-
-    <div class="hr-line">&nbsp;</div>
-
-    @if ($article->youtube)
-        <div class="well">
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="{{ $article->youtube }}"></iframe>
-            </div>
-        </div>
-        <div class="hr-line">&nbsp;</div>
-    @endif
 
     <button id="shareOnFacebook" class="btn btn-fb"><i class="fa fa-facebook-official" aria-hidden="true"></i> Споделете във Facebook &raquo;</button>
 

@@ -40,7 +40,7 @@
 
     <button id="shareOnFacebook" class="btn btn-fb"><i class="fa fa-facebook-official" aria-hidden="true"></i> Споделете във Facebook &raquo;</button>
 
-    <p>Пиши ми през <a href="{{ url('/contacts') }}">контактната форма &raquo;</a> ако имате въпроси или искате да обсъдим нещо по темата..</p>
+    <p>Пиши ми през <a href="{{ url('/contacts') }}">контактната форма &raquo;</a> ако имаш въпроси или искаш да обсъдим нещо по темата..</p>
 
     <p>Обратно към <a href="{{ url('/articles') }}">всички статии &raquo;</a></p>
 

@@ -1,7 +1,7 @@
 <div id="footer" class="container-fluid">
     <div class="container">
 
-        <p>Попълнете вашата е-поща и ще получавате известия за нови статии. Обещавам да не спамя.. много!</p>
+        <p>Въведи своята е-поща и ще получаваш известия за нови статии. Обещавам да не спамя.. много!</p>
         <div id="subscribe-form" class="row">
             {{ csrf_field() }}
             <div class="col-sm-9">

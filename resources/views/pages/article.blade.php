@@ -14,15 +14,14 @@
 
     <p>{!! nl2br($article->body) !!}</p>
 
-    <div class="hr-line">&nbsp;</div>
-
     @if ($article->youtube)
+	<div class="hr-line">&nbsp;</div>
+
         <div class="well">
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="embed-responsive-item" src="{{ $article->youtube }}"></iframe>
             </div>
         </div>
-        <div class="hr-line">&nbsp;</div>
     @endif
 
     <div class="hr-line">&nbsp;</div>

@@ -31,6 +31,7 @@ a:hover {
 }
 #header-sub {
     padding: 0px;
+    border-bottom: 4px solid $cl-light-grey;
 }
 #header h1 a {
     color: $cl-light-grey;
@@ -43,7 +44,7 @@ a:hover {
 /* ============================================= */
 
 #app {
-    padding-top: 20px;
+    padding-top: 0px;
 }
 .padded {
     padding: 0px 15px;

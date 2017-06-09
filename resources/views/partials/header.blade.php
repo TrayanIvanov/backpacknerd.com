@@ -1,6 +1,7 @@
 <div id="header" class="container-fluid" style="position: relative;">
     <div class="container">
         <h1><a href="{{ url('/') }}">Backpack Nerd</a></h1>
+        <p>There and back again..</p>
     </div>
 </div>
 

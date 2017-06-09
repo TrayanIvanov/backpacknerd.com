@@ -2,6 +2,8 @@
 
 @section('content')
 
+@include('partials.header-navigation')
+
 @include('partials.default-header')
 
 <div id="app" class="container page-articles">
@@ -11,6 +13,10 @@
     <p>
         Драсни ми един ред. Обещавам да отговоря!
     </p>
+
+    <a class="btn btn-fb" href="https://www.facebook.com/backpacknerd" target="_blank">
+        <i class="fa fa-facebook-official" aria-hidden="true"></i> Следи ни във Facebook &raquo;
+    </a>
 
     <div class="hr-line">&nbsp;</div>
 

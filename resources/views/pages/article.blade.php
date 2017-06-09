@@ -2,6 +2,8 @@
 
 @section('content')
 
+@include('partials.header-navigation')
+
 <div id="header-sub" class="container-fluid">
     <img src="{{ url($article->image_header) }}" class="img-responsive" title="Backpack Nerd - {{ $article->title }}" alt="Backpack Nerd - {{ $article->title }}" />
 </div>
@@ -38,7 +40,7 @@
         @endforeach
     </div>
 
-    <button id="shareOnFacebook" class="btn btn-fb"><i class="fa fa-facebook-official" aria-hidden="true"></i> Споделете във Facebook &raquo;</button>
+    <button id="shareOnFacebook" class="btn btn-fb"><i class="fa fa-facebook-official" aria-hidden="true"></i> Сподели във Facebook &raquo;</button>
 
     <p>Пиши ми през <a href="{{ url('/contacts') }}">контактната форма &raquo;</a> ако имаш въпроси или искаш да обсъдим нещо по темата..</p>
 

@@ -21,6 +21,10 @@
 
         <div class="row">
             <div class="col-sm-6">
+                <p>
+                    <i class="fa fa-facebook-official" aria-hidden="true"></i>
+                    <a href="https://www.facebook.com/backpacknerd" target="_blank">Facebook страница &raquo;</a>
+                </p>
                 <p><a href="{{ url('/articles') }}">Всички статии &raquo;</a></p>
                 <p><a href="{{ url('/contacts') }}">Контакти &raquo;</a></p>
             </div>

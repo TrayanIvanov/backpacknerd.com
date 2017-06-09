@@ -2,6 +2,8 @@
 
 @section('content')
 
+@include('partials.header-navigation')
+
 <div id="header-sub" class="container-fluid">
     <img src="{{ url($article->image_header) }}" class="img-responsive" title="Backpack Nerd - {{ $article->title }}" alt="Backpack Nerd - {{ $article->title }}" />
 </div>

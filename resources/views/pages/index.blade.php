@@ -2,6 +2,8 @@
 
 @section('content')
 
+@include('partials.header-navigation')
+
 @include('partials.default-header')
 
 <div id="app" class="container page-index">

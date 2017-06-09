@@ -16,6 +16,10 @@
         Неща направили ми впечатление в мрежата.
     </p>
 
+    <a class="btn btn-fb" href="https://www.facebook.com/backpacknerd" target="_blank">
+        <i class="fa fa-facebook-official" aria-hidden="true"></i> Следи ни във Facebook &raquo;
+    </a>
+
     <div class="hr-line">&nbsp;</div>
 
     <h3>Избрани статии</h3>

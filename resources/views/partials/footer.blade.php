@@ -64,7 +64,7 @@
             var csrf_token = $("#subscribe-form input[name=_token]").val();
             $.ajax({
                 method: 'post',
-                url: 'subscribe',
+                url: '/subscribe',
                 data: {
                     subscribe_email: email,
                     _token: csrf_token,

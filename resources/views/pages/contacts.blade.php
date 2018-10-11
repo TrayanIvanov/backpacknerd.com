@@ -15,7 +15,11 @@
     </p>
 
     <a class="btn btn-fb" href="https://www.facebook.com/backpacknerd" target="_blank">
-        <i class="fa fa-facebook-official" aria-hidden="true"></i> Следи ни във Facebook &raquo;
+        <i class="fa fa-facebook-official" aria-hidden="true"></i> Следи ме във Facebook &raquo;
+    </a>
+
+    <a class="btn btn-fb" href="https://www.instagram.com/backpack.nerd" target="_blank">
+        <i class="fa fa-instagram" aria-hidden="true"></i> Следи ме в Instagram &raquo;
     </a>
 
     <div class="hr-line">&nbsp;</div>
@@ -67,18 +71,14 @@
                 Bilbo Baggins
             </p>
 
-            <i class="fa fa-2x fa-globe" aria-hidden="true"></i>
-            <a href="http://trayan.co.uk" target="_blank">trayan.co.uk</a> (другото ми хоби/работа)
+            <i class="fa fa-2x fa-facebook-official" aria-hidden="true"></i>
+            <a href="https://www.facebook.com/backpacknerd" target="_blank">backpacknerd</a>
 
             <br />
 
             <i class="fa fa-2x fa-instagram" aria-hidden="true"></i>
-            <a href="https://www.instagram.com/trayan.ivanov" target="_blank">trayan.ivanov</a> (много се радвам на последователи и лайкове)
+            <a href="https://www.instagram.com/backpack.nerd" target="_blank">backpack.nerd</a>
 
-            <br />
-
-            <i class="fa fa-2x fa-twitter-square" aria-hidden="true"></i>
-            <a href="https://twitter.com/trayan_ivanov" target="_blank">trayan_ivanov</a> (не съм много активен тук)
         </div>
     </div>
 

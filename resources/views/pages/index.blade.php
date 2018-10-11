@@ -17,7 +17,11 @@
     </p>
 
     <a class="btn btn-fb" href="https://www.facebook.com/backpacknerd" target="_blank">
-        <i class="fa fa-facebook-official" aria-hidden="true"></i> Следи ни във Facebook &raquo;
+        <i class="fa fa-facebook-official" aria-hidden="true"></i> Следи ме във Facebook &raquo;
+    </a>
+
+    <a class="btn btn-fb" href="https://www.instagram.com/backpack.nerd" target="_blank">
+        <i class="fa fa-instagram" aria-hidden="true"></i> Следи ме в Instagram &raquo;
     </a>
 
     <div class="hr-line">&nbsp;</div>

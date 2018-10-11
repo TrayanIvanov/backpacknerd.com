@@ -16,6 +16,7 @@ Route::get('article/{article}', 'ArticlesController@selectedArticle');
 Route::get('contacts', 'ContactsController@index');
 Route::post('contacts', 'ContactsController@contactMe');
 Route::post('subscribe', 'ContactsController@subscribeMe');
+Route::get('calendar', 'CalendarController@index');
 
 Auth::routes();
 Route::get('/home', 'HomeController@index');

@@ -30,6 +30,7 @@
                     <a href="https://www.instagram.com/backpack.nerd" target="_blank">Instagram профил &raquo;</a>
                 </p>
                 <p><a href="{{ url('/articles') }}">Всички статии &raquo;</a></p>
+                <p><a href="{{ url('/calendar') }}">Календар &raquo;</a></p>
                 <p><a href="{{ url('/contacts') }}">Контакти &raquo;</a></p>
             </div>
             <div class="col-sm-6">

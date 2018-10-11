@@ -37,7 +37,7 @@
             </a>
 
             <a href="https://wildanimals.bg" target="_blank">
-                <img src="images/wild_animals.png" class="img-responsive" />
+                <img src="images/wild_animals.png" title="Backpack Nerd - Wild Animals" alt="Backpack Nerd - Wild Animals" class="img-responsive" />
             </a>
         </div>
     </div>

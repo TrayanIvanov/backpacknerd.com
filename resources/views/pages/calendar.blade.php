@@ -43,11 +43,11 @@
     </div>
 
     <a class="btn btn-fb" href="https://www.facebook.com/backpacknerd" target="_blank">
-        <i class="fa fa-facebook-official" aria-hidden="true"></i> Моят Facebook &raquo;
+        <i class="fa fa-facebook-official" aria-hidden="true"></i> Backpack Nerd Facebook &raquo;
     </a>
 
     <a class="btn btn-fb" href="https://www.instagram.com/backpack.nerd" target="_blank">
-        <i class="fa fa-instagram" aria-hidden="true"></i> Моят Instagram &raquo;
+        <i class="fa fa-instagram" aria-hidden="true"></i> Backpack Nerd Instagram &raquo;
     </a>
 
     <div class="hr-line">&nbsp;</div>

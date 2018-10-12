@@ -17,9 +17,15 @@
         </div>
         <p id="subscribe-form-message">&nbsp;</p>
 
-        <div class="hr-line-footer">&nbsp;</div>
-
         <div class="row">
+            <div class="col-sm-6">
+                <div class="fb-page"
+                  data-href="https://www.facebook.com/backpacknerd"
+                  data-width="330"
+                  data-hide-cover="false"
+                  data-show-facepile="true"></div>
+                <br /><br />
+            </div>
             <div class="col-sm-6">
                 <p>
                     <i class="fa fa-facebook-official" aria-hidden="true"></i>
@@ -29,6 +35,13 @@
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                     <a href="https://www.instagram.com/backpack.nerd" target="_blank">Instagram профил &raquo;</a>
                 </p>
+            </div>
+        </div>
+
+        <div class="hr-line-footer">&nbsp;</div>
+
+        <div class="row">
+            <div class="col-sm-6">
                 <p><a href="{{ url('/articles') }}">Всички статии &raquo;</a></p>
                 <p><a href="{{ url('/calendar') }}">Календар &raquo;</a></p>
                 <p><a href="{{ url('/contacts') }}">Контакти &raquo;</a></p>

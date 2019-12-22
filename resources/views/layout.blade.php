@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="bg">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,6 +18,7 @@
 
     <link rel="stylesheet" type="text/css" href="{{ url('css/app.css') }}">
     <link rel="shortcut icon" href="{{ url('favicon.ico') }}">
+    <link rel="canonical" href="@yield('canonical', url()->current())">
 
     @yield('scripts.head')
 </head>

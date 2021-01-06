@@ -28,6 +28,12 @@
                 Можеш да заявиш твоята бройка чрез <a href="{{ url('/contacts') }}" target="_blank">контактната форма</a> на сайта или чрез съобщение в някой от социалните канали на Backpack Nerd.<br><br>
                 Повече информация за фондацията можеш да откриеш на техният сайт - <a href="https://wildanimals.bg" target="_blank">wildanimals.bg</a> или <a href="https://www.facebook.com/DiviteJivotni" target="_blank">facebook</a> профил.
             </p>
+
+            <p class="error-color">
+                С гордост обявявам кампанията за успешно приключила!<br>
+                Тираж от 150 броя настолни календари се продаде за по-малко от 2 месеца.<br>
+                Събраните средства в помощ на фондация "Дивите животни" са 1110 лева!
+            </p>
         </div>
 
         <div class="col-sm-5">

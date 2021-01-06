@@ -13,7 +13,7 @@
     <meta property="og:title" content="@yield('og.title', 'Backpack Nerd')" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="@yield('og.desc', 'Backpack Nerd - Сайт за планински туризъм, разходки по света и у нас и фотография.')" />
-    <meta property="og:image" content="@yield('og.image', url('images/og_image.jpg'))" />
+    <meta property="og:image" content="@yield('og.image', url('images/og.jpg'))" />
     <meta property="og:url" content="@yield('og.url', url('/'))" />
 
     <link rel="stylesheet" type="text/css" href="{{ url('css/app.css') }}">

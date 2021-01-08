@@ -25,8 +25,6 @@
                   data-hide-cover="false"
                   data-show-facepile="true"></div>
                 <br /><br />
-            </div>
-            <div class="col-sm-6">
                 <p>
                     <i class="fa fa-facebook-official" aria-hidden="true"></i>
                     <a href="https://www.facebook.com/backpacknerd" target="_blank">Facebook страница &raquo;</a>
@@ -35,6 +33,11 @@
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                     <a href="https://www.instagram.com/backpack.nerd" target="_blank">Instagram профил &raquo;</a>
                 </p>
+            </div>
+            <div class="col-sm-6">
+                <a href="http://astom.org/" target="_blank">
+                    <img src="images/astom.png" class="img-responsive" style="max-width: 200px;" />
+                </a>
             </div>
         </div>
 
